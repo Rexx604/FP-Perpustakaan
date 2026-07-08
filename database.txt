@@ -1,0 +1,20 @@
+B003|Bumi Manusia|Pramoedya Ananta Toer|1980
+B013|Anak Semua Bangsa|Pramoedya Ananta Toer|1981
+B007|Ronggeng Dukuh Paruk|Ahmad Tohari|1982
+B009|Supernova|Dee Lestari|2001
+B005|Cantik Itu Luka|Eka Kurniawan|2002
+B001|Laskar Pelangi|Andre Hirata|2005
+B014|Sang Pemimpi|Andrea Hirata|2006
+B015|Edensor|Andrea Hirata|2007
+B002|Perahu Kertas|Dee Lestari|2009
+B004|Negeri 5 Menara|Ahmad Fuadi|2009
+B006|Pulang|Leila S. Chudori|2012
+B010|Gadis Kretek|Ratih Kumala|2012
+B016|Maryam|Okky Madasari|2012
+B017|Amba|Laksmi Pamuntjak|2012
+B008|Dilan 1990|Pidi Baiq|2014
+B019|Rindu|Tereliye|2014
+B012|Pulang|Tereliye|2015
+B011|Hujan|Tereliye|2016
+B020|Laut Bercerita|Leila S. Chudori|2017
+B018|Orang-Orang Biasa|Andrea Hirata|2019
